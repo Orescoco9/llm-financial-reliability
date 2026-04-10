@@ -9,6 +9,20 @@ This project uses a locally hosted LLM (via Ollama) to:
 - Generate structured risk assessments (JSON)
 - Evaluate model accuracy against predefined rules
 
+## 🧠 System Architecture
+
+User Input (Financial Data)
+        ↓
+Prompt Engineering Layer
+        ↓
+Local LLM (Ollama - Llama 3.1)
+        ↓
+Structured JSON Output Parser
+        ↓
+Evaluation & Scoring Engine
+        ↓
+📊 Accuracy Report + Results.json
+
 ## 🧠 Features
 
 - ✅ Local LLM (no API costs)

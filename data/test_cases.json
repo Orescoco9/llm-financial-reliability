@@ -1,0 +1,27 @@
+[
+  {
+    "company": "ABC Bank",
+    "debt_ratio": 0.7,
+    "volatility": 0.4
+  },
+  {
+    "company": "SafeCorp",
+    "debt_ratio": 0.2,
+    "volatility": 0.1
+  },
+  {
+    "company": "Risky Ventures",
+    "debt_ratio": 0.9,
+    "volatility": 0.8
+  },
+  {
+    "company": "Midline Ltd",
+    "debt_ratio": 0.5,
+    "volatility": 0.5
+  },
+  {
+  "company": "EdgeCase Inc",
+  "debt_ratio": 0.75,
+  "volatility": 0.7
+}
+]

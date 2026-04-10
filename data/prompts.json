@@ -1,0 +1,14 @@
+[
+  {
+    "question": "If I send ₦10,000 twice, how much total?",
+    "expected": "₦20,000"
+  },
+  {
+    "question": "Convert $100 to naira (assume 1500/USD)",
+    "expected": "₦150,000"
+  },
+  {
+    "question": "If a transaction fails but the account is debited, what should happen?",
+    "expected": "The transaction should be reversed or refunded"
+  }
+]
